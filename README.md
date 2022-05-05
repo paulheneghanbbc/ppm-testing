@@ -27,7 +27,7 @@ This checks that the PPM reads correctly (on the marks of the scale) on continuo
 
 File name: PPM 10 ms Integration - PPM 4, 6, 5.5, 5, 3.75, 1.75.wav
 
-A BBC PPM should be Type II. This is sometimes (loosely) defined as having an integration time of 10 ms. This should result in a 2dB underread for a 10 ms duration tone burst of 5 kHz.
+A BBC PPM should be Type II. This is sometimes (loosely) defined as having an integration time of 10 ms. This should result in a 2dB underread for a 10 ms duration 5 kHz tone burst.
 - 0:00 5 seconds of PPM 4 (-18 dBFS / 0 dBu) for line-up purposes
 - 0:05 1 second of silence
 - 0:06 100 ms tone burst of PPM 6 - should read PPM 6 (0 dB drop)
